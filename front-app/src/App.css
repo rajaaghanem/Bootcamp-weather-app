@@ -1,0 +1,23 @@
+.weather-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 5rem;
+  font-weight: bold;
+}
+
+label {
+  background-color: rgb(25, 95, 95);
+  width: max-content;
+  padding: 1rem;
+  border-radius: 1rem;
+  color: white;
+  font-weight: bold;
+}
+
+.input-container {
+  text-align: center;
+  margin: 2rem;
+}
